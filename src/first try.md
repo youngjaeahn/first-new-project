@@ -99,5 +99,8 @@ terminal(prompt)
 
 # 작업위치
 
+수정했다요
+
+
 git clone http://github.com/youngjaeahn/ayj0795.github.io
 `
